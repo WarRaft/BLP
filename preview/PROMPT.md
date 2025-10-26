@@ -3,5 +3,5 @@ https://t.me/neuralforum/7333097
 # Logo
 
 ```
-/i A dark fantasy-style emblem with the bold text "BLP" in the center as the main focus. The letters are large, jagged, and carved from ancient metal or bone, slightly glowing with arcane energy. Below and around the text — pirate-themed ornaments: a grim skull with a tattered hat, crossed cutlasses, broken ship wheels, ropes, and torn sails. These elements form a rugged base and decorative sides but do not obscure or sit behind the text. The composition is moody, with subtle glowing mist and runes, rendered in a WarCraft-inspired fantasy aesthetic. Strong silhouette, high contrast, black background, and a cursed, iconic look.
+/i -s Telegram sticker design: the bold text "BLP" dominates the center on a torn, blood-stained banner, carved like cracked metal glowing faintly from within. Behind it, a fierce pirate skull with both thumbs up in a tattered tricorn hat, framed by cracked ship wheels and frayed ropes. White skull with deep shadows, broken teeth, and glowing eyes with smoke. Accents: crimson red, muted cyan, steel blue, metallic gold. Dark, high-contrast Warcraft-style shading, cursed pirate energy. Black background with thick white outline, iconic sticker look.
 ```
